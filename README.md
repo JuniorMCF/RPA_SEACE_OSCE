@@ -15,3 +15,8 @@ The government contracting supervisory body (OSCE) is in charge of supervising p
 <p align="justify">
 The Peruvian state makes these bidding processes public knowledge, from the moment of the call, application, contracting, adjudication, etc. The entire follow-up of the process can be observed through the following platform:
 </p>
+
+[Link to platform OSCE](http://procesos.seace.gob.pe/seacebus-uiwd-pub/buscadorPublico/buscadorPublico.xhtml)
+
+
+
