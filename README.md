@@ -1,8 +1,8 @@
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="100" src="osce.png">
 </p>
 
-<p align="center">
+<p align="left">
     <strong style="font-size:1.2rem;">
     Robotic Process Automation for data extraction from the SEACE-OSCE platform
     </strong>
