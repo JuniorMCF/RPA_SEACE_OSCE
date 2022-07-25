@@ -13,7 +13,7 @@ The Peruvian state makes these bidding processes public knowledge, from the mome
 ## Link to platform
 
 <a href="http://procesos.seace.gob.pe/seacebus-uiwd-pub/buscadorPublico/buscadorPublico.xhtml" target="_blank">
-     <img src="osce.png" alt="osce.png">
+     <img style="width:100%;" src="osce.png" alt="osce.png">
 </a>
 
 ---
