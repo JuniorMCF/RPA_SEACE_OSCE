@@ -1,5 +1,7 @@
 ##  Robotic Process Automation OSCE using Selenium and OCR Model
 
+This is an application developed in Python 3.8.0, using the Selenium library, BeautifulSoap and Pandas to simulate an RPA tool for extracting data from the OSCE platform.
+
 ---
 
 ## About OSCE
